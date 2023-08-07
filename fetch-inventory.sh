@@ -18,7 +18,7 @@ do
       "pagestart": 0,
       "filter": {
           "year": [2022, 2023], 
-          "series": ["tacoma", "4runner", "tundra", "rav4"], 
+          "series": ["4runner"], 
           "dealers": ["'$i'"],
           "andfields": ["accessory", "packages", "dealer"]
         }
@@ -33,7 +33,7 @@ do
           year: .year.code,
           vehicle: .grade.series_code,
           model: .grade.code,
-          enginge: .engine.title,
+          engine: .engine.title,
           transmission: .transmission.title,
           drivetrain: .drive.title,
           cab: .cab.title,
