@@ -16,28 +16,8 @@
     "total_msrp": "44430.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Keep it Wild Savings [keep_it_wild_21], SR5 Premium Package w/ Softex, Moonroof, 50 State Emissions",
-    "created_at": "2024-05-05 06:36:45"
-  },
-  {
-    "dealer": "02052",
-    "vin": "JTEEU5JR8P5303265",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Barcelona Red Metallic",
-    "interior": "Black/Graphite Fabric",
-    "base_msrp": "40155",
-    "total_msrp": "41219.0",
-    "availability_date": null,
-    "total_packages": 4,
-    "packages": "50 State Emissions, Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners[installed_msrp], Preferred Owner's Portfolio",
-    "created_at": "2024-05-05 06:36:50"
+    "packages": "50 State Emissions, SR5 Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], Moonroof",
+    "created_at": "2024-05-05 07:33:44"
   },
   {
     "dealer": "27020",
@@ -56,8 +36,8 @@
     "total_msrp": "48738.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Quick Charge Cable Package[installed_msrp], Exhaust Tip - Chrome[installed_msrp], Owner's Portfolio, All Weather Floor Liners/Cargo Tray[installed_msrp], 40th Anniversary Edition, Moonroof, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[installed_msrp], 50 State Emissions, Front Skid Plate",
-    "created_at": "2024-05-05 06:36:51"
+    "packages": "Quick Charge Cable Package[installed_msrp], Front Skid Plate, Moonroof, Keep it Wild Savings [keep_it_wild_21], Owner's Portfolio, Exhaust Tip - Chrome[installed_msrp], 40th Anniversary Edition, All Weather Floor Liners/Cargo Tray[installed_msrp], Roof Rack Cross Bars[installed_msrp], 50 State Emissions",
+    "created_at": "2024-05-05 07:33:50"
   },
   {
     "dealer": "04739",
@@ -76,8 +56,8 @@
     "total_msrp": "53985.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Roof Rack Cross Bars[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Carpet Floor Mats & Carpet Cargo Mat[installed_msrp], Door Edge Guards[installed_msrp], Special Color, Cargo Cover[installed_msrp], Limited Grade, 50 State Emissions, Exhaust Tip - Chrome[installed_msrp], Automatic Running Boards",
-    "created_at": "2024-05-05 06:36:53"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Cargo Cover[installed_msrp], 50 State Emissions, Roof Rack Cross Bars[installed_msrp], Exhaust Tip - Chrome[installed_msrp], Automatic Running Boards, Special Color, Door Edge Guards[installed_msrp], Carpet Floor Mats & Carpet Cargo Mat[installed_msrp], Limited Grade",
+    "created_at": "2024-05-05 07:33:52"
   },
   {
     "dealer": "04159",
@@ -96,8 +76,8 @@
     "total_msrp": "53894.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "50 State Emissions, Third Row Seating - Leather, Roof Rack Cross Bars[installed_msrp], Extra Cost Color, Exhaust Tip - Chrome[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Automatic Running Boards, Keep it Wild Savings [keep_it_wild_21], Limited Grade",
-    "created_at": "2024-05-05 06:36:54"
+    "packages": "Limited Grade, Extra Cost Color, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Roof Rack Cross Bars[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Exhaust Tip - Chrome[installed_msrp], Third Row Seating - Leather, 50 State Emissions, Automatic Running Boards",
+    "created_at": "2024-05-05 07:33:53"
   },
   {
     "dealer": "04636",
@@ -116,8 +96,8 @@
     "total_msrp": "51827.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "Roof Rack Cross Bars[installed_msrp], USB Dual Power Port[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Door Edge Guards[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Kinetic Dynamic Suspension System (KDSS), Premium Package, Preferred Owner's Portfolio, Moonroof, 50 State Emissions, Predator Tube Step[installed_msrp], Off Road Package, Ball Mount[installed_msrp]",
-    "created_at": "2024-05-05 06:36:57"
+    "packages": "Predator Tube Step[installed_msrp], Kinetic Dynamic Suspension System (KDSS), Roof Rack Cross Bars[installed_msrp], Preferred Owner's Portfolio, Ball Mount[installed_msrp], Premium Package, Door Edge Guards[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Moonroof, Off Road Package, Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, USB Dual Power Port[installed_msrp]",
+    "created_at": "2024-05-05 07:33:56"
   },
   {
     "dealer": "04136",
@@ -136,8 +116,8 @@
     "total_msrp": "51177.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Moonroof, Premium Package, Off Road Package, Kinetic Dynamic Suspension System (KDSS), Blackout Emblem Overlays[installed_msrp], 50 State Emissions, Dual Power Port/Quick Charge Cable Package[installed_msrp], Door Edge Guards[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21]",
-    "created_at": "2024-05-05 06:37:00"
+    "packages": "Premium Package, Door Edge Guards[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Kinetic Dynamic Suspension System (KDSS), Off Road Package, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Blackout Emblem Overlays[installed_msrp], 50 State Emissions, Moonroof, Dual Power Port/Quick Charge Cable Package[installed_msrp]",
+    "created_at": "2024-05-05 07:33:59"
   },
   {
     "dealer": "04136",
@@ -156,28 +136,8 @@
     "total_msrp": "53463.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Limited Grade, Door Edge Guards[installed_msrp], Third Row Seating - Leather, Automatic Running Boards, Special Color",
-    "created_at": "2024-05-05 06:37:00"
-  },
-  {
-    "dealer": "04136",
-    "vin": "JTEDU5JR8P5294773",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "limited",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Blizzard Pearl [extra_cost_color]",
-    "interior": "Black/Graphite Leather-trimmed",
-    "base_msrp": "49390",
-    "total_msrp": "53778.0",
-    "availability_date": null,
-    "total_packages": 10,
-    "packages": "Third Row Seating - Leather, Limited Grade, 50 State Emissions, Roof Rack Cross Bars[installed_msrp], Exhaust Tip - Chrome[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Cargo Cover[installed_msrp], Special Color, Automatic Running Boards, All-Weather Floor Liners & Cargo Tray Package[installed_msrp]",
-    "created_at": "2024-05-05 06:37:00"
+    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Limited Grade, Automatic Running Boards, 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Third Row Seating - Leather, Door Edge Guards[installed_msrp], Special Color",
+    "created_at": "2024-05-05 07:33:59"
   },
   {
     "dealer": "04786",
@@ -196,8 +156,8 @@
     "total_msrp": "41855.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "Third Row Seating - Fabric, 50 State Emissions, Keep it Wild Savings [keep_it_wild_21]",
-    "created_at": "2024-05-05 06:37:23"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Third Row Seating - Fabric, 50 State Emissions",
+    "created_at": "2024-05-05 07:34:21"
   },
   {
     "dealer": "04088",
@@ -216,8 +176,8 @@
     "total_msrp": "42944.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Premium Audio, Preferred Owner's Portfolio, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21]",
-    "created_at": "2024-05-05 06:37:36"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Premium Audio, 50 State Emissions, Preferred Owner's Portfolio",
+    "created_at": "2024-05-05 07:34:32"
   },
   {
     "dealer": "04088",
@@ -236,8 +196,8 @@
     "total_msrp": "43549.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "All-Weather Floor Liners[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Third Row Seating - Fabric, Preferred Owner's Portfolio, Premium Audio, 50 State Emissions",
-    "created_at": "2024-05-05 06:37:36"
+    "packages": "All-Weather Floor Liners[installed_msrp], Premium Audio, Third Row Seating - Fabric, Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Preferred Owner's Portfolio",
+    "created_at": "2024-05-05 07:34:32"
   },
   {
     "dealer": "04088",
@@ -256,28 +216,8 @@
     "total_msrp": "43609.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Preferred Owner's Portfolio, 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Third Row Seating - Fabric, All-Weather Floor Liners[installed_msrp], Premium Audio",
-    "created_at": "2024-05-05 06:37:36"
-  },
-  {
-    "dealer": "04088",
-    "vin": "JTEEU5JR1P5302622",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Black/Graphite Fabric",
-    "base_msrp": "40155",
-    "total_msrp": "43749.0",
-    "availability_date": null,
-    "total_packages": 6,
-    "packages": "Third Row Seating - Fabric, Premium Audio, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio, 50 State Emissions",
-    "created_at": "2024-05-05 06:37:36"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Third Row Seating - Fabric, Preferred Owner's Portfolio, 50 State Emissions, All-Weather Floor Liners[installed_msrp], Premium Audio",
+    "created_at": "2024-05-05 07:34:32"
   },
   {
     "dealer": "04088",
@@ -296,8 +236,28 @@
     "total_msrp": "43749.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Premium Audio, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Preferred Owner's Portfolio, 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Third Row Seating - Fabric",
-    "created_at": "2024-05-05 06:37:36"
+    "packages": "Preferred Owner's Portfolio, Third Row Seating - Fabric, 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Premium Audio, Keep it Wild Savings [keep_it_wild_21]",
+    "created_at": "2024-05-05 07:34:32"
+  },
+  {
+    "dealer": "04088",
+    "vin": "JTEEU5JR1P5302622",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Black/Graphite Fabric",
+    "base_msrp": "40155",
+    "total_msrp": "43749.0",
+    "availability_date": null,
+    "total_packages": 6,
+    "packages": "Preferred Owner's Portfolio, Keep it Wild Savings [keep_it_wild_21], Premium Audio, 50 State Emissions, Third Row Seating - Fabric, All-Weather Floor Liners & Cargo Tray Package[installed_msrp]",
+    "created_at": "2024-05-05 07:34:32"
   },
   {
     "dealer": "04088",
@@ -316,8 +276,8 @@
     "total_msrp": "43749.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Preferred Owner's Portfolio, Third Row Seating - Fabric, Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Premium Audio, All-Weather Floor Liners & Cargo Tray Package[installed_msrp]",
-    "created_at": "2024-05-05 06:37:36"
+    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Third Row Seating - Fabric, Premium Audio, Preferred Owner's Portfolio",
+    "created_at": "2024-05-05 07:34:32"
   },
   {
     "dealer": "04007",
@@ -336,8 +296,8 @@
     "total_msrp": "55110.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Third Row Seating - Leather, Limited Grade, Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Automatic Running Boards, Special Color",
-    "created_at": "2024-05-05 06:37:37"
+    "packages": "Automatic Running Boards, 50 State Emissions, Special Color, Keep it Wild Savings [keep_it_wild_21], Limited Grade, Third Row Seating - Leather",
+    "created_at": "2024-05-05 07:34:33"
   },
   {
     "dealer": "04051",
@@ -356,8 +316,8 @@
     "total_msrp": "44129.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Third Row Seating - Fabric, Premium Audio, Blackout Emblem Overlays[installed_msrp], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[installed_msrp], Preferred Owner's Portfolio, All-Weather Floor Liners & Cargo Tray Package[installed_msrp]",
-    "created_at": "2024-05-05 06:37:38"
+    "packages": "Blackout Emblem Overlays[installed_msrp], Roof Rack Cross Bars[installed_msrp], 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Preferred Owner's Portfolio, Premium Audio, Third Row Seating - Fabric, Keep it Wild Savings [keep_it_wild_21]",
+    "created_at": "2024-05-05 07:34:34"
   },
   {
     "dealer": "04051",
@@ -376,8 +336,8 @@
     "total_msrp": "53434.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Limited Grade, Keep it Wild Savings [keep_it_wild_21], Third Row Seating - Leather, 50 State Emissions",
-    "created_at": "2024-05-05 06:37:38"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Limited Grade, 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Third Row Seating - Leather",
+    "created_at": "2024-05-05 07:34:34"
   },
   {
     "dealer": "04563",
@@ -396,8 +356,8 @@
     "total_msrp": "42417.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio, Trail Running Boards[installed_msrp], Wilderness Package[installed_msrp], Exhaust Tip - Chrome[installed_msrp], Cargo Cover[installed_msrp], Ball Mount[installed_msrp], 50 State Emissions",
-    "created_at": "2024-05-05 06:37:39"
+    "packages": "Trail Running Boards[installed_msrp], Exhaust Tip - Chrome[installed_msrp], 50 State Emissions, Cargo Cover[installed_msrp], Ball Mount[installed_msrp], Preferred Owner's Portfolio, Wilderness Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21]",
+    "created_at": "2024-05-05 07:34:35"
   },
   {
     "dealer": "04563",
@@ -416,8 +376,8 @@
     "total_msrp": "45315.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Preferred Owner's Portfolio, 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Premium Audio, Third Row Seating - Fabric",
-    "created_at": "2024-05-05 06:37:39"
+    "packages": "Premium Audio, Third Row Seating - Fabric, Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio, 50 State Emissions",
+    "created_at": "2024-05-05 07:34:35"
   },
   {
     "dealer": "04563",
@@ -436,8 +396,8 @@
     "total_msrp": "47450.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, Preferred Owner's Portfolio, SR5 Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], Moonroof, Third Row Seating - Softex",
-    "created_at": "2024-05-05 06:37:39"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], SR5 Premium Package w/ Softex, Moonroof, Third Row Seating - Softex, 50 State Emissions, Preferred Owner's Portfolio",
+    "created_at": "2024-05-05 07:34:35"
   },
   {
     "dealer": "04563",
@@ -456,8 +416,8 @@
     "total_msrp": "52334.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "Third Row Seating - Leather, Limited Grade, Keep it Wild Savings [keep_it_wild_21], Ball Mount[installed_msrp], Emergency Assistance Kit[installed_msrp], Universal Tablet Holder[installed_msrp], Preferred Owner's Portfolio, 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Quick Charge Cable Package[installed_msrp], Mudguards[installed_msrp], Coin Holder / Ashtray Cup[installed_msrp], Carpet Floor Mats & Carpet Cargo Mat[installed_msrp]",
-    "created_at": "2024-05-05 06:37:39"
+    "packages": "Limited Grade, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Carpet Floor Mats & Carpet Cargo Mat[installed_msrp], Ball Mount[installed_msrp], 50 State Emissions, Mudguards[installed_msrp], Emergency Assistance Kit[installed_msrp], Coin Holder / Ashtray Cup[installed_msrp], Universal Tablet Holder[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Quick Charge Cable Package[installed_msrp], Third Row Seating - Leather, Preferred Owner's Portfolio",
+    "created_at": "2024-05-05 07:34:35"
   },
   {
     "dealer": "04563",
@@ -476,8 +436,8 @@
     "total_msrp": "53610.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Preferred Owner's Portfolio, Keep it Wild Savings [keep_it_wild_21], Special Color, Limited Grade, Third Row Seating - Leather, 50 State Emissions",
-    "created_at": "2024-05-05 06:37:39"
+    "packages": "Preferred Owner's Portfolio, Keep it Wild Savings [keep_it_wild_21], Special Color, 50 State Emissions, Third Row Seating - Leather, Limited Grade",
+    "created_at": "2024-05-05 07:34:35"
   },
   {
     "dealer": "04176",
@@ -496,8 +456,8 @@
     "total_msrp": "49933.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "USB Dual Power Port[installed_msrp], Blackout Emblem Overlays[installed_msrp], Kinetic Dynamic Suspension System (KDSS), 50 State Emissions, All-Weather Floor Liners[installed_msrp], Off Road Premium Package w/ Softex, Running Boards, Keep it Wild Savings [keep_it_wild_21], Alloy Wheel Locks[installed_msrp], Quick Charge Cable Package[installed_msrp], Off Road Package, Moonroof",
-    "created_at": "2024-05-05 06:37:40"
+    "packages": "Quick Charge Cable Package[installed_msrp], Off Road Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Running Boards, All-Weather Floor Liners[installed_msrp], Off Road Package, Alloy Wheel Locks[installed_msrp], Kinetic Dynamic Suspension System (KDSS), Blackout Emblem Overlays[installed_msrp], USB Dual Power Port[installed_msrp], Moonroof",
+    "created_at": "2024-05-05 07:34:35"
   },
   {
     "dealer": "04374",
@@ -516,8 +476,8 @@
     "total_msrp": "43988.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Third Row Seating - Fabric, Quick Charge Cable Package[installed_msrp], Preferred Owner's Portfolio, Premium Audio, Keep it Wild Savings [keep_it_wild_21], Carpet Floor Mats[parts_only_msrp], 50 State Emissions",
-    "created_at": "2024-05-05 06:37:41"
+    "packages": "Third Row Seating - Fabric, Preferred Owner's Portfolio, Quick Charge Cable Package[installed_msrp], Carpet Floor Mats[parts_only_msrp], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Premium Audio, All-Weather Floor Liners & Cargo Tray Package[installed_msrp]",
+    "created_at": "2024-05-05 07:34:36"
   },
   {
     "dealer": "04292",
@@ -536,8 +496,8 @@
     "total_msrp": "53919.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Limited Grade, Special Color, Third Row Seating - Leather, 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp]",
-    "created_at": "2024-05-05 06:37:41"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Limited Grade, Special Color, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Third Row Seating - Leather",
+    "created_at": "2024-05-05 07:34:37"
   },
   {
     "dealer": "04292",
@@ -556,8 +516,8 @@
     "total_msrp": "53964.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Preferred Owner's Portfolio, 50 State Emissions, Third Row Seating - Leather, All-Weather Floor Liners[installed_msrp], Special Color, Limited Grade, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[installed_msrp]",
-    "created_at": "2024-05-05 06:37:41"
+    "packages": "Limited Grade, Roof Rack Cross Bars[installed_msrp], 50 State Emissions, Third Row Seating - Leather, All-Weather Floor Liners[installed_msrp], Special Color, Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio",
+    "created_at": "2024-05-05 07:34:37"
   },
   {
     "dealer": "04389",
@@ -576,8 +536,8 @@
     "total_msrp": "50474.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Running Boards, Off Road Premium Package w/ Softex, Blackout Emblem Overlays[installed_msrp], 50 State Emissions, Off Road Package, Kinetic Dynamic Suspension System (KDSS), Moonroof, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Alloy Wheel Locks[installed_msrp]",
-    "created_at": "2024-05-05 06:37:42"
+    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Moonroof, Off Road Package, Off Road Premium Package w/ Softex, Kinetic Dynamic Suspension System (KDSS), Blackout Emblem Overlays[installed_msrp], 50 State Emissions, Alloy Wheel Locks[installed_msrp], Running Boards",
+    "created_at": "2024-05-05 07:34:38"
   },
   {
     "dealer": "04201",
@@ -596,8 +556,8 @@
     "total_msrp": "50617.0",
     "availability_date": null,
     "total_packages": 14,
-    "packages": "Roof Rack Cross Bars[installed_msrp], Emergency Assistance Kit[installed_msrp], Courtesy Delivery Veh/TMS/NFS, Cargo Cover[installed_msrp], Paint Protection Film - Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Running Boards, 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Kinetic Dynamic Suspension System (KDSS), Off Road Package, Alloy Wheel Locks[installed_msrp], Moonroof, Off Road Premium Package w/ Softex",
-    "created_at": "2024-05-05 06:37:43"
+    "packages": "Moonroof, Keep it Wild Savings [keep_it_wild_21], Emergency Assistance Kit[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Courtesy Delivery Veh/TMS/NFS, Off Road Premium Package w/ Softex, Kinetic Dynamic Suspension System (KDSS), Off Road Package, Roof Rack Cross Bars[installed_msrp], Paint Protection Film - Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], 50 State Emissions, Running Boards, Cargo Cover[installed_msrp], Alloy Wheel Locks[installed_msrp]",
+    "created_at": "2024-05-05 07:34:38"
   },
   {
     "dealer": "04682",
@@ -616,8 +576,8 @@
     "total_msrp": "41666.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Carpet Floor Mats & Carpet Cargo Mat[installed_msrp], 50 State Emissions",
-    "created_at": "2024-05-05 06:37:45"
+    "packages": "Carpet Floor Mats & Carpet Cargo Mat[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21]",
+    "created_at": "2024-05-05 07:34:39"
   },
   {
     "dealer": "04682",
@@ -636,28 +596,8 @@
     "total_msrp": "45931.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Third Row Seating - Fabric, 50 State Emissions, Premium Audio, Carpet Floor Mats & Carpet Cargo Mat[installed_msrp]",
-    "created_at": "2024-05-05 06:37:45"
-  },
-  {
-    "dealer": "36080",
-    "vin": "JTEKU5JR7P6205387",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "limited",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "Full-time 4-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Blizzard Pearl [extra_cost_color]",
-    "interior": "Black/Graphite Leather-trimmed",
-    "base_msrp": "51425",
-    "total_msrp": "55419.0",
-    "availability_date": null,
-    "total_packages": 7,
-    "packages": "Automatic Running Boards, Third Row Seating - Leather, 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Limited Grade, Special Color, Keep it Wild Savings [keep_it_wild_21]",
-    "created_at": "2024-05-05 06:37:52"
+    "packages": "Third Row Seating - Fabric, Premium Audio, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Carpet Floor Mats & Carpet Cargo Mat[installed_msrp]",
+    "created_at": "2024-05-05 07:34:39"
   },
   {
     "dealer": "43022",
@@ -676,8 +616,8 @@
     "total_msrp": "44639.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "50 State Emissions, Exhaust Tip - Black Chrome[installed_msrp], Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Blackout Emblem Overlays[installed_msrp], Roof Rack Cross Bars[installed_msrp], Premium Audio",
-    "created_at": "2024-05-05 06:37:59"
+    "packages": "50 State Emissions, Exhaust Tip - Black Chrome[installed_msrp], Premium Audio, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[installed_msrp], Blackout Emblem Overlays[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp]",
+    "created_at": "2024-05-05 07:34:49"
   },
   {
     "dealer": "43022",
@@ -696,8 +636,8 @@
     "total_msrp": "50472.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "High Performance LED Fog Lights[installed_msrp], Off Road Premium Package w/ Softex, Roof Rack Cross Bars[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Off Road Package, Predator Tube Step[installed_msrp], 50 State Emissions, Kinetic Dynamic Suspension System (KDSS), Dual Power Port/Quick Charge Cable Package[installed_msrp], Moonroof, All-Weather Floor Liners & Cargo Tray Package[installed_msrp]",
-    "created_at": "2024-05-05 06:37:59"
+    "packages": "Off Road Premium Package w/ Softex, Dual Power Port/Quick Charge Cable Package[installed_msrp], 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Off Road Package, Roof Rack Cross Bars[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Moonroof, Predator Tube Step[installed_msrp], High Performance LED Fog Lights[installed_msrp], Kinetic Dynamic Suspension System (KDSS)",
+    "created_at": "2024-05-05 07:34:49"
   },
   {
     "dealer": "43022",
@@ -716,28 +656,8 @@
     "total_msrp": "52366.0",
     "availability_date": null,
     "total_packages": 14,
-    "packages": "Kinetic Dynamic Suspension System (KDSS), Blackout Emblem Overlays[installed_msrp], High Performance LED Fog Lights[installed_msrp], Off Road Premium Package w/ Softex, Yakima Cargo Basket - LoadWarrior, Off Road Package, 50 State Emissions, Moonroof, Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], TRD Performance Exhaust[installed_msrp], Roof Rack Cross Bars[installed_msrp], Dual Power Port/Quick Charge Cable Package[installed_msrp], Predator Tube Step[installed_msrp]",
-    "created_at": "2024-05-05 06:37:59"
-  },
-  {
-    "dealer": "43020",
-    "vin": "JTENU5JR4P6179411",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "Part-time 4-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Black/Graphite SofTex®-trimmed [softex]",
-    "base_msrp": "45090",
-    "total_msrp": "47543.0",
-    "availability_date": null,
-    "total_packages": 8,
-    "packages": "SR5 Premium Package w/ Softex, Predator Tube Step[installed_msrp], 50 State Emissions, Moonroof, Roof Rack Cross Bars[installed_msrp], Door Edge Guards[installed_msrp], Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp]",
-    "created_at": "2024-05-05 06:38:00"
+    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions, TRD Performance Exhaust[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Off Road Premium Package w/ Softex, Yakima Cargo Basket - LoadWarrior, Roof Rack Cross Bars[installed_msrp], Predator Tube Step[installed_msrp], Kinetic Dynamic Suspension System (KDSS), Moonroof, Blackout Emblem Overlays[installed_msrp], Off Road Package, High Performance LED Fog Lights[installed_msrp], Dual Power Port/Quick Charge Cable Package[installed_msrp]",
+    "created_at": "2024-05-05 07:34:49"
   },
   {
     "dealer": "36095",
@@ -756,8 +676,8 @@
     "total_msrp": "49949.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "All-Weather Floor Liners[installed_msrp], Preferred Owner's Portfolio, Off Road Package, Off Road Premium Package w/ Softex, Emergency Assistance Kit[installed_msrp], Kinetic Dynamic Suspension System (KDSS), Moonroof, Keep it Wild Savings [keep_it_wild_21], Cargo Tray[installed_msrp], 50 State Emissions",
-    "created_at": "2024-05-05 06:38:05"
+    "packages": "All-Weather Floor Liners[installed_msrp], Off Road Premium Package w/ Softex, Emergency Assistance Kit[installed_msrp], Preferred Owner's Portfolio, 50 State Emissions, Moonroof, Cargo Tray[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Kinetic Dynamic Suspension System (KDSS), Off Road Package",
+    "created_at": "2024-05-05 07:34:53"
   },
   {
     "dealer": "46003",
@@ -776,8 +696,8 @@
     "total_msrp": "46813.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Dual Power Port/Quick Charge Cable Package[installed_msrp], 50 State Emissions, Moonroof, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], SR5 Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio",
-    "created_at": "2024-05-05 06:38:13"
+    "packages": "50 State Emissions, Moonroof, Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Dual Power Port/Quick Charge Cable Package[installed_msrp], SR5 Premium Package w/ Softex",
+    "created_at": "2024-05-05 07:34:59"
   },
   {
     "dealer": "46081",
@@ -796,8 +716,8 @@
     "total_msrp": "54685.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Limited Grade, Automatic Running Boards, 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Third Row Seating - Leather",
-    "created_at": "2024-05-05 06:38:19"
+    "packages": "Automatic Running Boards, Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Limited Grade, Third Row Seating - Leather",
+    "created_at": "2024-05-05 07:35:05"
   },
   {
     "dealer": "05011",
@@ -816,8 +736,8 @@
     "total_msrp": "43850.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Premium Audio",
-    "created_at": "2024-05-05 06:38:22"
+    "packages": "50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Premium Audio",
+    "created_at": "2024-05-05 07:35:08"
   },
   {
     "dealer": "05063",
@@ -836,8 +756,8 @@
     "total_msrp": "48749.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Roof Rack Cross Bars[installed_msrp], Moonroof, Kinetic Dynamic Suspension System (KDSS), All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Off Road Package, Off Road Premium Package w/ Softex",
-    "created_at": "2024-05-05 06:38:23"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Off Road Premium Package w/ Softex, Off Road Package, Kinetic Dynamic Suspension System (KDSS), 50 State Emissions, Roof Rack Cross Bars[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Moonroof",
+    "created_at": "2024-05-05 07:35:08"
   },
   {
     "dealer": "05069",
@@ -856,8 +776,8 @@
     "total_msrp": "52129.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions, Limited Grade",
-    "created_at": "2024-05-05 06:38:26"
+    "packages": "50 State Emissions, Limited Grade, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21]",
+    "created_at": "2024-05-05 07:35:11"
   },
   {
     "dealer": "05069",
@@ -876,8 +796,8 @@
     "total_msrp": "54557.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Limited Grade, Keep it Wild Savings [keep_it_wild_21], High Performance LED Fog Lights[installed_msrp], Toyota 4Runner Cooler - White[installed_msrp], Exhaust Tip - Black Chrome[installed_msrp], Roof Rack Cross Bars[installed_msrp], Alloy Wheel Locks[installed_msrp], Mudguards[installed_msrp], Third Row Seating - Leather, 50 State Emissions",
-    "created_at": "2024-05-05 06:38:26"
+    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions, High Performance LED Fog Lights[installed_msrp], Limited Grade, Third Row Seating - Leather, Alloy Wheel Locks[installed_msrp], Mudguards[installed_msrp], Exhaust Tip - Black Chrome[installed_msrp], Toyota 4Runner Cooler - White[installed_msrp], Roof Rack Cross Bars[installed_msrp], Keep it Wild Savings [keep_it_wild_21]",
+    "created_at": "2024-05-05 07:35:11"
   },
   {
     "dealer": "25060",
@@ -896,8 +816,8 @@
     "total_msrp": "52825.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "High Performance LED Fog Lights[installed_msrp], Trail Running Boards[installed_msrp], Cargo Cover[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], TRD 17-In. Matte Black Alloy Wheel[parts_only_msrp], Moonroof, Blackout Emblem Overlays[installed_msrp], Kinetic Dynamic Suspension System (KDSS), 50 State Emissions, USB Dual Power Port[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Off Road Package, Off Road Premium Package w/ Softex",
-    "created_at": "2024-05-05 06:38:33"
+    "packages": "High Performance LED Fog Lights[installed_msrp], 50 State Emissions, USB Dual Power Port[installed_msrp], Blackout Emblem Overlays[installed_msrp], Trail Running Boards[installed_msrp], TRD 17-In. Matte Black Alloy Wheel[parts_only_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Kinetic Dynamic Suspension System (KDSS), Off Road Package, Off Road Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], Moonroof, Cargo Cover[installed_msrp]",
+    "created_at": "2024-05-05 07:35:18"
   },
   {
     "dealer": "42344",
@@ -916,8 +836,8 @@
     "total_msrp": "51162.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Blackout Plus Package[gst_global_lio_disclaimer], Premium Package, 50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], Moonroof, LED Bulb Upgrade[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21]",
-    "created_at": "2024-05-05 06:38:42"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Blackout Plus Package[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Moonroof, 50 State Emissions, Premium Package, LED Bulb Upgrade[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:27"
   },
   {
     "dealer": "42407",
@@ -936,8 +856,8 @@
     "total_msrp": "49017.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Moonroof, 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Connectivity Kit[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:38:42"
+    "packages": "Rear Cargo Organizer[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, SR5 Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], Moonroof, Blackout Plus Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:28"
   },
   {
     "dealer": "42278",
@@ -956,8 +876,8 @@
     "total_msrp": "50185.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Keep it Wild Savings [keep_it_wild_21], SR5 Premium Package w/ Softex, Yakima Roof Cargo Basket[gst_global_lio_disclaimer], Moonroof, Roof Rack Cross Bars[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Blackout Plus Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:38:43"
+    "packages": "Blackout Plus Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], SR5 Premium Package w/ Softex, Connectivity Kit[gst_global_lio_disclaimer], Moonroof, Yakima Roof Cargo Basket[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-05-05 07:35:28"
   },
   {
     "dealer": "42202",
@@ -976,8 +896,8 @@
     "total_msrp": "51951.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Moonroof, Connectivity Kit[gst_global_lio_disclaimer], Third Row Seating - Softex, Roof Rack Cross Bars[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex",
-    "created_at": "2024-05-05 06:38:43"
+    "packages": "Roof Rack Cross Bars[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Moonroof, Third Row Seating - Softex, LED Bulb Upgrade[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex",
+    "created_at": "2024-05-05 07:35:28"
   },
   {
     "dealer": "42295",
@@ -996,8 +916,8 @@
     "total_msrp": "54040.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "Sliding Rear Cargo Deck, 50 State Emissions, TRD PRO Package",
-    "created_at": "2024-05-05 06:38:47"
+    "packages": "Sliding Rear Cargo Deck, TRD PRO Package, 50 State Emissions",
+    "created_at": "2024-05-05 07:35:31"
   },
   {
     "dealer": "42403",
@@ -1016,8 +936,8 @@
     "total_msrp": "44713.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "50 State Emissions, Cargo Net[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Blackout Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Connectivity Kit[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:38:51"
+    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], 50 State Emissions, Blackout Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:35"
   },
   {
     "dealer": "42119",
@@ -1036,28 +956,8 @@
     "total_msrp": "44010.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "Keep it Wild Savings [keep_it_wild_21], TRD SPORT, 50 State Emissions",
-    "created_at": "2024-05-05 06:39:01"
-  },
-  {
-    "dealer": "42095",
-    "vin": "JTEFU5JR6P5303768",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Magnetic Gray Metallic",
-    "interior": "Black/Graphite SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "46186.0",
-    "availability_date": null,
-    "total_packages": 10,
-    "packages": "LED Bulb Upgrade[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Moonroof, Connectivity Kit[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex",
-    "created_at": "2024-05-05 06:39:02"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, TRD SPORT",
+    "created_at": "2024-05-05 07:35:43"
   },
   {
     "dealer": "42095",
@@ -1076,8 +976,8 @@
     "total_msrp": "46186.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Center Console Safe[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Moonroof, Roof Rack Cross Bars[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Connectivity Kit[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, 50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:02"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Premium Carpet Mat Set[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], 50 State Emissions, SR5 Premium Package w/ Softex, Connectivity Kit[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Moonroof",
+    "created_at": "2024-05-05 07:35:45"
   },
   {
     "dealer": "42095",
@@ -1096,8 +996,28 @@
     "total_msrp": "46186.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Moonroof, 50 State Emissions, SR5 Premium Package w/ Softex, Premium Carpet Mat Set[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Connectivity Kit[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:02"
+    "packages": "Roof Rack Cross Bars[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], LED Bulb Upgrade[gst_global_lio_disclaimer], 50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Vehicle Protection Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Moonroof",
+    "created_at": "2024-05-05 07:35:45"
+  },
+  {
+    "dealer": "42095",
+    "vin": "JTEFU5JR6P5303768",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Magnetic Gray Metallic",
+    "interior": "Black/Graphite SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "46186.0",
+    "availability_date": null,
+    "total_packages": 10,
+    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], Moonroof, Roof Rack Cross Bars[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], 50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:45"
   },
   {
     "dealer": "42095",
@@ -1116,8 +1036,8 @@
     "total_msrp": "48375.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "50 State Emissions, Moonroof, LED Bulb Upgrade[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Vehicle Protection Package[gst_global_lio_disclaimer], Premium Package, Rear Cargo Organizer[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:02"
+    "packages": "Rear Cargo Organizer[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Moonroof, 50 State Emissions, Premium Package, Vehicle Protection Package[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:45"
   },
   {
     "dealer": "42095",
@@ -1136,8 +1056,8 @@
     "total_msrp": "53336.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "50 State Emissions, Roof Rack Cross Bars[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Rear Cargo Mat[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Off-Road Upgrade Package[gst_global_lio_disclaimer], Off Road Package, Premium Package, Moonroof, LED Bulb Upgrade[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:02"
+    "packages": "LED Bulb Upgrade[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Off-Road Upgrade Package[gst_global_lio_disclaimer], Rear Cargo Mat[gst_global_lio_disclaimer], Moonroof, Keep it Wild Savings [keep_it_wild_21], Vehicle Protection Package[gst_global_lio_disclaimer], Premium Package, Off Road Package",
+    "created_at": "2024-05-05 07:35:45"
   },
   {
     "dealer": "42095",
@@ -1156,8 +1076,8 @@
     "total_msrp": "53510.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Premium Package, 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Moonroof, Off-Road Upgrade Package[gst_global_lio_disclaimer], Off Road Package, Cargo Cover[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:02"
+    "packages": "Premium Package, Keep it Wild Savings [keep_it_wild_21], Moonroof, LED Bulb Upgrade[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], 50 State Emissions, Vehicle Protection Premium Package[gst_global_lio_disclaimer], Off Road Package, Roof Rack Cross Bars[gst_global_lio_disclaimer], Off-Road Upgrade Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:45"
   },
   {
     "dealer": "42284",
@@ -1176,8 +1096,8 @@
     "total_msrp": "48545.0",
     "availability_date": null,
     "total_packages": 14,
-    "packages": "Roof Rack Cross Bars[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Connectivity Kit[gst_global_lio_disclaimer], Rear Cargo Mat[gst_global_lio_disclaimer], TRD SPORT, Aluminum Running Boards[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], 50 State Emissions, Stainless Steel Exhaust Tip, Center Console Safe[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:03"
+    "packages": "Rear Cargo Mat[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Aluminum Running Boards[gst_global_lio_disclaimer], 50 State Emissions, Center Console Safe[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Rear Cargo Organizer[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], TRD SPORT, Connectivity Kit[gst_global_lio_disclaimer], Stainless Steel Exhaust Tip",
+    "created_at": "2024-05-05 07:35:47"
   },
   {
     "dealer": "42284",
@@ -1196,8 +1116,8 @@
     "total_msrp": "49386.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Blackout Plus Package[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, 50 State Emissions, Moonroof, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:03"
+    "packages": "Roof Rack Cross Bars[gst_global_lio_disclaimer], 50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Blackout Plus Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Moonroof, SR5 Premium Package w/ Softex",
+    "created_at": "2024-05-05 07:35:47"
   },
   {
     "dealer": "42284",
@@ -1216,8 +1136,8 @@
     "total_msrp": "49724.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Rear Cargo Organizer[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Moonroof, SR5 Premium Package w/ Softex, 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], LED Bulb Upgrade[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:03"
+    "packages": "Moonroof, LED Bulb Upgrade[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Center Console Safe[gst_global_lio_disclaimer], 50 State Emissions, Roof Rack Cross Bars[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21]",
+    "created_at": "2024-05-05 07:35:47"
   },
   {
     "dealer": "42284",
@@ -1236,8 +1156,8 @@
     "total_msrp": "49724.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Blackout Plus Package[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, SR5 Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], LED Bulb Upgrade[gst_global_lio_disclaimer], Moonroof, Connectivity Kit[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:03"
+    "packages": "50 State Emissions, Center Console Safe[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Moonroof, SR5 Premium Package w/ Softex, Cargo Cover[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:47"
   },
   {
     "dealer": "42284",
@@ -1256,8 +1176,8 @@
     "total_msrp": "50324.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Rear Cargo Organizer[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Premium Package, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], Moonroof, Vehicle Protection Package[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:03"
+    "packages": "50 State Emissions, Premium Package, Vehicle Protection Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Blackout Plus Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Moonroof, LED Bulb Upgrade[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:47"
   },
   {
     "dealer": "42284",
@@ -1276,8 +1196,8 @@
     "total_msrp": "50411.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Roof Rack Cross Bars[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Moonroof, LED Bulb Upgrade[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Premium Package, Center Console Safe[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:03"
+    "packages": "Rear Cargo Organizer[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Center Console Safe[gst_global_lio_disclaimer], Premium Package, Moonroof, 50 State Emissions, LED Bulb Upgrade[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:47"
   },
   {
     "dealer": "42315",
@@ -1296,328 +1216,8 @@
     "total_msrp": "47355.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Cargo Cover[gst_global_lio_disclaimer], TRD SPORT, Roof Rack Cross Bars[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Technology Package, Aluminum Running Boards[gst_global_lio_disclaimer], Rear Cargo Mat[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-05-05 06:39:06"
-  },
-  {
-    "dealer": "42342",
-    "vin": "JTEFU5JR9P5302579",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "Rear Cargo Organizer[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Blackout Plus Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Moonroof, Connectivity Kit[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JR2P5304996",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "Cargo Cover[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], LED Bulb Upgrade[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], 50 State Emissions, Moonroof, SR5 Premium Package w/ Softex, Roof Rack Cross Bars[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JR3P5304862",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "Moonroof, LED Bulb Upgrade[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, SR5 Premium Package w/ Softex",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JR2P5304948",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Moonroof, SR5 Premium Package w/ Softex, Blackout Plus Package[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], 50 State Emissions, Rear Cargo Organizer[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21]",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JRXP5304776",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], 50 State Emissions, Moonroof, Blackout Plus Package[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JR2P5304156",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "Moonroof, 50 State Emissions, Blackout Plus Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Roof Rack Cross Bars[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Cargo Cover[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JR9P5304476",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "Roof Rack Cross Bars[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Rear Cargo Organizer[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Moonroof, Keep it Wild Savings [keep_it_wild_21], Blackout Plus Package[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JR9P5304512",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "Keep it Wild Savings [keep_it_wild_21], Cargo Cover[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Moonroof, SR5 Premium Package w/ Softex, Blackout Plus Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, LED Bulb Upgrade[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JR8P5304999",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "LED Bulb Upgrade[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], 50 State Emissions, Moonroof, SR5 Premium Package w/ Softex, Blackout Plus Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Rear Cargo Organizer[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JR0P5304527",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "Blackout Plus Package[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Moonroof, Keep it Wild Savings [keep_it_wild_21], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, LED Bulb Upgrade[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JR0P5304768",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "Moonroof, Cargo Cover[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], SR5 Premium Package w/ Softex, Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], 50 State Emissions, LED Bulb Upgrade[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JR3P5304439",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Moonroof, SR5 Premium Package w/ Softex, Rear Cargo Organizer[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Blackout Plus Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JR9P5304669",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "LED Bulb Upgrade[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, SR5 Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], Moonroof, Rear Cargo Organizer[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JR9P5304896",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Rear Cargo Organizer[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Moonroof, Blackout Plus Package[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Roof Rack Cross Bars[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JR7P5304105",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "LED Bulb Upgrade[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, Rear Cargo Organizer[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Vehicle Protection Package[gst_global_lio_disclaimer], Moonroof, SR5 Premium Package w/ Softex, Cargo Cover[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42186",
-    "vin": "JTEFU5JR7P5304783",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Sand Beige SofTex®-trimmed [softex]",
-    "base_msrp": "43215",
-    "total_msrp": "49329.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], LED Bulb Upgrade[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Moonroof, Roof Rack Cross Bars[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
+    "packages": "LED Bulb Upgrade[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Technology Package, Cargo Cover[gst_global_lio_disclaimer], Aluminum Running Boards[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], TRD SPORT, Rear Cargo Mat[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-05-05 07:35:51"
   },
   {
     "dealer": "42186",
@@ -1636,12 +1236,12 @@
     "total_msrp": "49329.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "SR5 Premium Package w/ Softex, Rear Cargo Organizer[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Cargo Cover[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], 50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Moonroof",
-    "created_at": "2024-05-05 06:39:08"
+    "packages": "Cargo Cover[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], Moonroof, Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, LED Bulb Upgrade[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex",
+    "created_at": "2024-05-05 07:35:53"
   },
   {
     "dealer": "42186",
-    "vin": "JTEFU5JR7P5304797",
+    "vin": "JTEFU5JR9P5304896",
     "year": "2023",
     "vehicle": "4runner",
     "model": "SR5premium",
@@ -1656,8 +1256,68 @@
     "total_msrp": "49329.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Roof Rack Cross Bars[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Rear Cargo Organizer[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Blackout Plus Package[gst_global_lio_disclaimer], Moonroof, 50 State Emissions, Cargo Cover[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Blackout Plus Package[gst_global_lio_disclaimer], Moonroof, Connectivity Kit[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], 50 State Emissions, Cargo Cover[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JR9P5304669",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49329.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Moonroof, Cargo Cover[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], Blackout Plus Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JR0P5304527",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49329.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Moonroof, Vehicle Protection Package[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, SR5 Premium Package w/ Softex, Roof Rack Cross Bars[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Cargo Cover[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JR3P5304439",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49329.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Moonroof, Vehicle Protection Package[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex",
+    "created_at": "2024-05-05 07:35:53"
   },
   {
     "dealer": "42186",
@@ -1676,12 +1336,12 @@
     "total_msrp": "49329.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Roof Rack Cross Bars[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Blackout Plus Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Moonroof, Cargo Cover[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Connectivity Kit[gst_global_lio_disclaimer], Moonroof, Blackout Plus Package[gst_global_lio_disclaimer], 50 State Emissions, SR5 Premium Package w/ Softex, Rear Cargo Organizer[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:53"
   },
   {
     "dealer": "42186",
-    "vin": "JTEFU5JR6P5304922",
+    "vin": "JTEFU5JR9P5304512",
     "year": "2023",
     "vehicle": "4runner",
     "model": "SR5premium",
@@ -1693,11 +1353,231 @@
     "color": "Ice Cap",
     "interior": "Sand Beige SofTex®-trimmed [softex]",
     "base_msrp": "43215",
-    "total_msrp": "49929.0",
+    "total_msrp": "49329.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Blackout Plus Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Premium Package, Cargo Cover[gst_global_lio_disclaimer], Moonroof, Rear Cargo Organizer[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
+    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Connectivity Kit[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Moonroof, Rear Cargo Organizer[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, 50 State Emissions, Cargo Cover[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JR7P5304105",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49329.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Rear Cargo Organizer[gst_global_lio_disclaimer], Moonroof, Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], 50 State Emissions, SR5 Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], Cargo Cover[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JRXP5304776",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49329.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Blackout Plus Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Moonroof, Cargo Cover[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, SR5 Premium Package w/ Softex, Connectivity Kit[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], LED Bulb Upgrade[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JR2P5304948",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49329.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Rear Cargo Organizer[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Moonroof, SR5 Premium Package w/ Softex, Blackout Plus Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JR2P5304996",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49329.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "SR5 Premium Package w/ Softex, Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Moonroof, Blackout Plus Package[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JR3P5304862",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49329.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Moonroof, Blackout Plus Package[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, Cargo Cover[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JR2P5304156",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49329.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Rear Cargo Organizer[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Moonroof, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, 50 State Emissions",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JR9P5304476",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49329.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "50 State Emissions, SR5 Premium Package w/ Softex, LED Bulb Upgrade[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Connectivity Kit[gst_global_lio_disclaimer], Moonroof, Roof Rack Cross Bars[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JR7P5304783",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49329.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "LED Bulb Upgrade[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Blackout Plus Package[gst_global_lio_disclaimer], 50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Moonroof, Cargo Cover[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JR8P5304999",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49329.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Cargo Cover[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Blackout Plus Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Moonroof, LED Bulb Upgrade[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JR0P5304768",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49329.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "SR5 Premium Package w/ Softex, Roof Rack Cross Bars[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Moonroof, Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21]",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JR7P5304797",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49329.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Connectivity Kit[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Blackout Plus Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Moonroof, Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], 50 State Emissions, Cargo Cover[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:53"
   },
   {
     "dealer": "42186",
@@ -1716,8 +1596,8 @@
     "total_msrp": "49929.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Premium Package, Moonroof, LED Bulb Upgrade[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Rear Cargo Organizer[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
+    "packages": "Rear Cargo Organizer[gst_global_lio_disclaimer], Moonroof, Keep it Wild Savings [keep_it_wild_21], Blackout Plus Package[gst_global_lio_disclaimer], 50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Premium Package, Roof Rack Cross Bars[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:53"
   },
   {
     "dealer": "42186",
@@ -1736,8 +1616,28 @@
     "total_msrp": "49929.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "50 State Emissions, Cargo Cover[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Moonroof, Premium Package, Blackout Plus Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], LED Bulb Upgrade[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:08"
+    "packages": "Premium Package, Blackout Plus Package[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Moonroof, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:53"
+  },
+  {
+    "dealer": "42186",
+    "vin": "JTEFU5JR6P5304922",
+    "year": "2023",
+    "vehicle": "4runner",
+    "model": "SR5premium",
+    "engine": "4.0L V6 Engine",
+    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "2-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Sand Beige SofTex®-trimmed [softex]",
+    "base_msrp": "43215",
+    "total_msrp": "49929.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Premium Package, Roof Rack Cross Bars[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Moonroof, Cargo Cover[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Blackout Plus Package[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-05-05 07:35:53"
   },
   {
     "dealer": "42201",
@@ -1756,28 +1656,8 @@
     "total_msrp": "51561.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "LED Bulb Upgrade[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Rear Cargo Mat[gst_global_lio_disclaimer], Off-Road Upgrade Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], 50 State Emissions, Off Road Package, Off Road Premium Package w/ Softex",
-    "created_at": "2024-05-05 06:39:08"
-  },
-  {
-    "dealer": "42161",
-    "vin": "JTEEU5JR1P5301616",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "2-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Midnight Black Metallic",
-    "interior": "Black/Graphite Fabric",
-    "base_msrp": "40155",
-    "total_msrp": "44892.0",
-    "availability_date": null,
-    "total_packages": 12,
-    "packages": "LED Bulb Upgrade[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Center Console Safe[gst_global_lio_disclaimer], 50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], Blackout Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:12"
+    "packages": "Off Road Package, Keep it Wild Savings [keep_it_wild_21], Off-Road Upgrade Package[gst_global_lio_disclaimer], 50 State Emissions, Roof Rack Cross Bars[gst_global_lio_disclaimer], Off Road Premium Package w/ Softex, Cargo Cover[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Rear Cargo Mat[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:53"
   },
   {
     "dealer": "42161",
@@ -1796,8 +1676,8 @@
     "total_msrp": "50324.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "50 State Emissions, Premium Package, Keep it Wild Savings [keep_it_wild_21], Cargo Cover[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Moonroof, Roof Rack Cross Bars[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:12"
+    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Premium Package, Blackout Plus Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Moonroof, Keep it Wild Savings [keep_it_wild_21], Center Console Safe[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:35:58"
   },
   {
     "dealer": "42161",
@@ -1816,8 +1696,8 @@
     "total_msrp": "54069.0",
     "availability_date": null,
     "total_packages": 14,
-    "packages": "Rear Cargo Organizer[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Premium Package, Off-Road Upgrade Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Rear Cargo Mat[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Moonroof, Off Road Package, Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:12"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Off Road Package, Rear Cargo Mat[gst_global_lio_disclaimer], Premium Package, Center Console Safe[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Off-Road Upgrade Package[gst_global_lio_disclaimer], Moonroof, 50 State Emissions",
+    "created_at": "2024-05-05 07:35:58"
   },
   {
     "dealer": "24079",
@@ -1836,8 +1716,8 @@
     "total_msrp": "41782.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "USB Dual Power Port[installed_msrp], Roof Rack Cross Bars[installed_msrp], High Performance LED Fog Lights[installed_msrp], 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21]",
-    "created_at": "2024-05-05 06:39:14"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[installed_msrp], 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], High Performance LED Fog Lights[installed_msrp], USB Dual Power Port[installed_msrp]",
+    "created_at": "2024-05-05 07:36:01"
   },
   {
     "dealer": "35055",
@@ -1856,8 +1736,8 @@
     "total_msrp": "49924.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Vehicle Protection Premium Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, Moonroof, SR5 Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], Blackout Plus Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:29"
+    "packages": "SR5 Premium Package w/ Softex, Vehicle Protection Premium Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Moonroof, Blackout Plus Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, LED Bulb Upgrade[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Cargo Cover[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:36:17"
   },
   {
     "dealer": "03050",
@@ -1876,8 +1756,8 @@
     "total_msrp": "50649.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "50 State Emissions, Blackout Plus Package[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Ball Mount[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Moonroof",
-    "created_at": "2024-05-05 06:39:32"
+    "packages": "Blackout Plus Package[gst_global_lio_disclaimer], 50 State Emissions, Moonroof, Keep it Wild Savings [keep_it_wild_21], Vehicle Protection Package[gst_global_lio_disclaimer], SR5 Premium Package w/ Softex, Ball Mount[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:36:20"
   },
   {
     "dealer": "03072",
@@ -1896,8 +1776,8 @@
     "total_msrp": "56192.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "Vehicle Protection Premium Package[gst_global_lio_disclaimer], Third Row Seating - Leather, LED Bulb Upgrade[gst_global_lio_disclaimer], Special Color, Premium Carpet Mat Set[gst_global_lio_disclaimer], Stainless Steel Exhaust Tip, 50 State Emissions, Limited Grade, Mud Guards[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Aluminum Running Boards[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Cargo Cover[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:34"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Stainless Steel Exhaust Tip, Special Color, LED Bulb Upgrade[gst_global_lio_disclaimer], Limited Grade, Cargo Cover[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Third Row Seating - Leather, Roof Rack Cross Bars[gst_global_lio_disclaimer], Aluminum Running Boards[gst_global_lio_disclaimer], 50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:36:21"
   },
   {
     "dealer": "41066",
@@ -1916,8 +1796,8 @@
     "total_msrp": "51935.0",
     "availability_date": null,
     "total_packages": 19,
-    "packages": "Cargo Cover[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Roof Rack Cross Bars[installed_msrp], Emergency Assistance Kit[installed_msrp], Yakima Roof Cargo Basket, Alloy Wheel Locks[installed_msrp], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Off Road Package, TRD 17-In. Matte Black Alloy Wheel[parts_only_msrp], Moonroof, Preferred Owner's Portfolio, Door Edge Guards[installed_msrp], Exhaust Tip - Black Chrome[installed_msrp], TRD Front Skid Plate[installed_msrp], Quick Charge Cable Package[installed_msrp], Off Road Premium Package w/ Softex, High Performance LED Fog Lights[installed_msrp], Predator Tube Step[installed_msrp]",
-    "created_at": "2024-05-05 06:39:39"
+    "packages": "Off Road Premium Package w/ Softex, Exhaust Tip - Black Chrome[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Alloy Wheel Locks[installed_msrp], Predator Tube Step[installed_msrp], Door Edge Guards[installed_msrp], Quick Charge Cable Package[installed_msrp], TRD Front Skid Plate[installed_msrp], 50 State Emissions, TRD 17-In. Matte Black Alloy Wheel[parts_only_msrp], Yakima Roof Cargo Basket, Moonroof, Emergency Assistance Kit[installed_msrp], High Performance LED Fog Lights[installed_msrp], Cargo Cover[installed_msrp], Preferred Owner's Portfolio, Keep it Wild Savings [keep_it_wild_21], Off Road Package, Roof Rack Cross Bars[installed_msrp]",
+    "created_at": "2024-05-05 07:36:26"
   },
   {
     "dealer": "14036",
@@ -1936,8 +1816,8 @@
     "total_msrp": "52833.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Running Boards - Chrome Detail[installed_msrp], Limited Grade, All-Weather Floor Liners[installed_msrp], 50 State Emissions, Mudguards[installed_msrp], Keep it Wild Savings [keep_it_wild_21]",
-    "created_at": "2024-05-05 06:39:48"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners[installed_msrp], 50 State Emissions, Limited Grade, Mudguards[installed_msrp], Running Boards - Chrome Detail[installed_msrp]",
+    "created_at": "2024-05-05 07:36:34"
   },
   {
     "dealer": "17050",
@@ -1956,8 +1836,8 @@
     "total_msrp": "46361.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Black Tube Step Running Board, Rear Cargo Mat[gst_global_lio_disclaimer], Audio Plus, LED Bulb Upgrade[gst_global_lio_disclaimer], Off Road Package, Stainless Steel Exhaust Tip, Roof Rack Cross Bars[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:52"
+    "packages": "Black Tube Step Running Board, Stainless Steel Exhaust Tip, Audio Plus, 50 State Emissions, Rear Cargo Mat[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], Off Road Package",
+    "created_at": "2024-05-05 07:36:37"
   },
   {
     "dealer": "17061",
@@ -1976,8 +1856,8 @@
     "total_msrp": "42360.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "LED Bulb Upgrade[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Vehicle Protection Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:53"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Premium Carpet Mat Set[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], 50 State Emissions, Cargo Cover[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:36:38"
   },
   {
     "dealer": "17057",
@@ -1996,8 +1876,8 @@
     "total_msrp": "51055.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "50 State Emissions, Moonroof, Cargo Cover[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Third Row Seating - Softex, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], Blackout Plus Package[gst_global_lio_disclaimer], Premium Package, Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:39:57"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Blackout Plus Package[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Moonroof, Premium Package, Connectivity Kit[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Third Row Seating - Softex, Roof Rack Cross Bars[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:36:42"
   },
   {
     "dealer": "22041",
@@ -2017,7 +1897,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "50 State Emissions, Keep it Wild Savings [keep_it_wild_21]",
-    "created_at": "2024-05-05 06:40:01"
+    "created_at": "2024-05-05 07:36:46"
   },
   {
     "dealer": "22041",
@@ -2036,8 +1916,8 @@
     "total_msrp": "41389.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Cargo Tray[installed_msrp], All-Weather Floor Liners[installed_msrp], Quick Charge Cable Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21], 50 State Emissions",
-    "created_at": "2024-05-05 06:40:01"
+    "packages": "Quick Charge Cable Package[installed_msrp], All-Weather Floor Liners[installed_msrp], Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Cargo Tray[installed_msrp]",
+    "created_at": "2024-05-05 07:36:46"
   },
   {
     "dealer": "22030",
@@ -2056,8 +1936,8 @@
     "total_msrp": "41050.0",
     "availability_date": null,
     "total_packages": 2,
-    "packages": "50 State Emissions, Keep it Wild Savings [keep_it_wild_21]",
-    "created_at": "2024-05-05 06:40:02"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], 50 State Emissions",
+    "created_at": "2024-05-05 07:36:47"
   },
   {
     "dealer": "22030",
@@ -2077,7 +1957,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "Keep it Wild Savings [keep_it_wild_21], 50 State Emissions",
-    "created_at": "2024-05-05 06:40:02"
+    "created_at": "2024-05-05 07:36:47"
   },
   {
     "dealer": "24022",
@@ -2097,7 +1977,7 @@
     "availability_date": null,
     "total_packages": 3,
     "packages": "Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-05-05 06:40:08"
+    "created_at": "2024-05-05 07:36:53"
   },
   {
     "dealer": "12147",
@@ -2116,8 +1996,8 @@
     "total_msrp": "41608.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Preferred Owner's Portfolio, Cargo Cover[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21]",
-    "created_at": "2024-05-05 06:40:11"
+    "packages": "Cargo Cover[installed_msrp], Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Preferred Owner's Portfolio, Quick Charge Cable Package[installed_msrp]",
+    "created_at": "2024-05-05 07:36:55"
   },
   {
     "dealer": "12153",
@@ -2136,8 +2016,8 @@
     "total_msrp": "42120.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Blackout Emblem Overlays[installed_msrp], Cargo Cover[installed_msrp], Door Edge Guards[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Dual Power Port/Quick Charge Cable Package[installed_msrp], High Performance LED Fog Lights[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-05-05 06:40:12"
+    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions, Dual Power Port/Quick Charge Cable Package[installed_msrp], Door Edge Guards[installed_msrp], Blackout Emblem Overlays[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Cargo Cover[installed_msrp], High Performance LED Fog Lights[installed_msrp]",
+    "created_at": "2024-05-05 07:36:56"
   },
   {
     "dealer": "24080",
@@ -2156,8 +2036,8 @@
     "total_msrp": "41359.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "50 State Emissions, Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp]",
-    "created_at": "2024-05-05 06:40:13"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions",
+    "created_at": "2024-05-05 07:36:57"
   },
   {
     "dealer": "01064",
@@ -2177,7 +2057,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "XP Predator [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], Power Tilt/Slide Moonroof, All Weather Floor Mats w/All Weather Cargo Tray [set_global_lio_disclaimer], Touch Keypad [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Phone Cable Charge Package w/Two Front USB Ports [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Premium Package, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions, Keep It Wild Savings",
-    "created_at": "2024-05-05 06:40:19"
+    "created_at": "2024-05-05 07:37:03"
   },
   {
     "dealer": "10131",
@@ -2197,7 +2077,7 @@
     "availability_date": "Now",
     "total_packages": 13,
     "packages": "Third Row Seating, Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], Carpet Floor Mats with Carpet Cargo Mat [set_global_lio_disclaimer], Special Color, Touch Keypad [set_global_lio_disclaimer], Phone Cable Charge Package w/Two Front USB Ports [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Grade, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions, Keep It Wild Savings",
-    "created_at": "2024-05-05 06:40:23"
+    "created_at": "2024-05-05 07:37:07"
   },
   {
     "dealer": "23081",
@@ -2216,8 +2096,8 @@
     "total_msrp": "53799.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "LED Bulb Upgrade[gst_global_lio_disclaimer], Moonroof, Keep it Wild Savings [keep_it_wild_21], Off Road Package, Off-Road Upgrade Package[gst_global_lio_disclaimer], Rear Cargo Mat[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Premium Package, Vehicle Protection Premium Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-05-05 06:40:41"
+    "packages": "Roof Rack Cross Bars[gst_global_lio_disclaimer], Rear Cargo Mat[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Moonroof, Off Road Package, Rear Cargo Organizer[gst_global_lio_disclaimer], 50 State Emissions, Cargo Cover[gst_global_lio_disclaimer], Off-Road Upgrade Package[gst_global_lio_disclaimer], Premium Package",
+    "created_at": "2024-05-05 07:37:21"
   },
   {
     "dealer": "23062",
@@ -2236,8 +2116,8 @@
     "total_msrp": "51216.0",
     "availability_date": null,
     "total_packages": 14,
-    "packages": "Keep it Wild Savings [keep_it_wild_21], 40th Anniversary Edition, Vehicle Protection Premium Package[gst_global_lio_disclaimer], Predator Tube Step[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Moonroof, Ball Mount[gst_global_lio_disclaimer], Rear Cargo Mat[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], 50 State Emissions, Cargo Cover[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:40:42"
+    "packages": "Roof Rack Cross Bars[gst_global_lio_disclaimer], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Moonroof, Predator Tube Step[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], 40th Anniversary Edition, Ball Mount[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Rear Cargo Mat[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:37:22"
   },
   {
     "dealer": "23052",
@@ -2256,8 +2136,8 @@
     "total_msrp": "53761.0",
     "availability_date": null,
     "total_packages": 14,
-    "packages": "Off Road Package, Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Cargo Cover[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Premium Package, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[gst_global_lio_disclaimer], Moonroof, Rear Cargo Mat[gst_global_lio_disclaimer], Off-Road Upgrade Package[gst_global_lio_disclaimer], 50 State Emissions, Ball Mount[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer]",
-    "created_at": "2024-05-05 06:40:43"
+    "packages": "Cargo Cover[gst_global_lio_disclaimer], Keep it Wild Savings [keep_it_wild_21], Moonroof, Premium Package, 50 State Emissions, Ball Mount[gst_global_lio_disclaimer], LED Bulb Upgrade[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Rear Cargo Mat[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Off-Road Upgrade Package[gst_global_lio_disclaimer], Roof Rack Cross Bars[gst_global_lio_disclaimer], Off Road Package, Rear Cargo Organizer[gst_global_lio_disclaimer]",
+    "created_at": "2024-05-05 07:37:22"
   },
   {
     "dealer": "09096",
@@ -2277,7 +2157,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], LED Under-car Puddle Illumination [set_global_lio_disclaimer], Touch Keypad [set_global_lio_disclaimer], Sliding Rear Cargo Deck, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Front Dual USB Power Port Charger [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Grade, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions, Keep It Wild Savings",
-    "created_at": "2024-05-05 06:40:46"
+    "created_at": "2024-05-05 07:37:25"
   },
   {
     "dealer": "09096",
@@ -2297,7 +2177,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], LED Under-car Puddle Illumination [set_global_lio_disclaimer], Touch Keypad [set_global_lio_disclaimer], Sliding Rear Cargo Deck, Clear Paint Protection - Door Package [set_global_lio_disclaimer], Front Dual USB Power Port Charger [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Grade, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions, Keep It Wild Savings",
-    "created_at": "2024-05-05 06:40:46"
+    "created_at": "2024-05-05 07:37:25"
   },
   {
     "dealer": "09096",
@@ -2317,7 +2197,7 @@
     "availability_date": "Now",
     "total_packages": 13,
     "packages": "Third Row Seating, TOYOGUARD Platinum [set_global_lio_disclaimer], LED Under-car Puddle Illumination [set_global_lio_disclaimer], Special Color, Touch Keypad [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], Front Dual USB Power Port Charger [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Grade, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions, Keep It Wild Savings",
-    "created_at": "2024-05-05 06:40:46"
+    "created_at": "2024-05-05 07:37:25"
   },
   {
     "dealer": "09210",
@@ -2337,7 +2217,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "Third Row Seating, Special Color, Clear Paint Protection - Door Package [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Grade, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions, Keep It Wild Savings",
-    "created_at": "2024-05-05 06:40:48"
+    "created_at": "2024-05-05 07:37:27"
   },
   {
     "dealer": "09240",
@@ -2357,7 +2237,7 @@
     "availability_date": "Now",
     "total_packages": 16,
     "packages": "XP Predator [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], 2 in 1 LED Projector Fog Lights w/LED Accent Light [set_global_lio_disclaimer], TRD Skid Plate [set_global_lio_disclaimer], All Weather Floor Mats w/All Weather Cargo Tray [set_global_lio_disclaimer], Center Console Safe [set_global_lio_disclaimer], Touch Keypad [set_global_lio_disclaimer], Sliding Rear Cargo Deck, Phone Cable Charge Package w/Two Front USB Ports [set_global_lio_disclaimer], LED Interior Light Upgrade [set_global_lio_disclaimer], Cross Bars [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], PDS Show Cars [set_global_lio_disclaimer], 50 State Emissions, Keep It Wild Savings",
-    "created_at": "2024-05-05 06:40:52"
+    "created_at": "2024-05-05 07:37:31"
   },
   {
     "dealer": "32111",
@@ -2377,7 +2257,7 @@
     "availability_date": "Now",
     "total_packages": 10,
     "packages": "Third Row Seating, TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Full Hood [set_global_lio_disclaimer], All Weather Floor Mats w/All Weather Cargo Tray [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Grade, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions, Keep It Wild Savings",
-    "created_at": "2024-05-05 06:41:05"
+    "created_at": "2024-05-05 07:37:42"
   },
   {
     "dealer": "32148",
@@ -2397,27 +2277,7 @@
     "availability_date": "Now",
     "total_packages": 9,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Special Color, Sliding Rear Cargo Deck, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Limited Grade, SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions, Keep It Wild Savings",
-    "created_at": "2024-05-05 06:41:18"
-  },
-  {
-    "dealer": "50013",
-    "vin": "JTENU5JR5P6204316",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "Part-time 4-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Black/Graphite SofTex®-trimmed [softex]",
-    "base_msrp": "45090",
-    "total_msrp": "46004.0",
-    "availability_date": null,
-    "total_packages": 5,
-    "packages": "Cargo Tray[installed_msrp], SR5 Premium Package w/ Softex, All-Weather Floor Liners[installed_msrp], Keep it Wild Savings [keep_it_wild_21], 50 State Emissions",
-    "created_at": "2024-05-05 06:41:25"
+    "created_at": "2024-05-05 07:37:52"
   },
   {
     "dealer": "34085",
@@ -2436,8 +2296,8 @@
     "total_msrp": "42879.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Running Boards - Chrome Detail[installed_msrp], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Third Row Seating - Fabric",
-    "created_at": "2024-05-05 06:41:34"
+    "packages": "Third Row Seating - Fabric, Keep it Wild Savings [keep_it_wild_21], Running Boards - Chrome Detail[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions",
+    "created_at": "2024-05-05 07:38:06"
   },
   {
     "dealer": "34085",
@@ -2456,8 +2316,8 @@
     "total_msrp": "48509.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Moonroof, Off Road Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Running Boards, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Off Road Package",
-    "created_at": "2024-05-05 06:41:34"
+    "packages": "Off Road Package, Moonroof, 50 State Emissions, Running Boards, Off Road Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp]",
+    "created_at": "2024-05-05 07:38:06"
   },
   {
     "dealer": "34044",
@@ -2476,8 +2336,8 @@
     "total_msrp": "49512.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Door Edge Guards[installed_msrp], Premium Package, Cargo Cover[installed_msrp], Running Boards - Chrome Detail[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[installed_msrp], Moonroof, Off Road Package, 50 State Emissions",
-    "created_at": "2024-05-05 06:41:35"
+    "packages": "Running Boards - Chrome Detail[installed_msrp], 50 State Emissions, Off Road Package, Moonroof, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[installed_msrp], Cargo Cover[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Premium Package, Door Edge Guards[installed_msrp]",
+    "created_at": "2024-05-05 07:38:06"
   },
   {
     "dealer": "41001",
@@ -2496,8 +2356,8 @@
     "total_msrp": "51803.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Roof Rack Cross Bars[installed_msrp], TRD 17-In. Matte Black Alloy Wheel[parts_only_msrp], Running Boards, Yakima Roof Cargo Basket, Moonroof, TRD Front Skid Plate[installed_msrp], Exhaust Tip - Chrome[installed_msrp], Premium Package, Preferred Owner's Portfolio, Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Off Road Package",
-    "created_at": "2024-05-05 06:41:47"
+    "packages": "Roof Rack Cross Bars[installed_msrp], Keep it Wild Savings [keep_it_wild_21], TRD Front Skid Plate[installed_msrp], Premium Package, TRD 17-In. Matte Black Alloy Wheel[parts_only_msrp], Yakima Roof Cargo Basket, Off Road Package, Moonroof, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions, Running Boards, Exhaust Tip - Chrome[installed_msrp], Preferred Owner's Portfolio",
+    "created_at": "2024-05-05 07:38:17"
   },
   {
     "dealer": "45055",
@@ -2516,8 +2376,8 @@
     "total_msrp": "54316.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Limited Grade, Keep it Wild Savings [keep_it_wild_21], Alloy Wheel Locks[installed_msrp], Door Edge Guards[installed_msrp], Quick Charge Cable Package[installed_msrp], Special Color, All-Weather Floor Liners[installed_msrp], Mudguards[installed_msrp], Third Row Seating - Leather, 50 State Emissions, Cargo Cover[installed_msrp]",
-    "created_at": "2024-05-05 06:41:51"
+    "packages": "Mudguards[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp], Door Edge Guards[installed_msrp], Limited Grade, Third Row Seating - Leather, Special Color, Keep it Wild Savings [keep_it_wild_21], Cargo Cover[installed_msrp], All-Weather Floor Liners[installed_msrp], Alloy Wheel Locks[installed_msrp]",
+    "created_at": "2024-05-05 07:38:22"
   },
   {
     "dealer": "19045",
@@ -2536,8 +2396,8 @@
     "total_msrp": "45613.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Preferred Owner's Portfolio, 50 State Emissions, Quick Charge Cable Package[installed_msrp], Moonroof, SR5 Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Door Edge Guards[installed_msrp], Predator Tube Step[installed_msrp]",
-    "created_at": "2024-05-05 06:41:53"
+    "packages": "50 State Emissions, Preferred Owner's Portfolio, Door Edge Guards[installed_msrp], SR5 Premium Package w/ Softex, Moonroof, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Predator Tube Step[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Quick Charge Cable Package[installed_msrp]",
+    "created_at": "2024-05-05 07:38:23"
   },
   {
     "dealer": "19043",
@@ -2556,8 +2416,8 @@
     "total_msrp": "54254.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Quick Charge Cable Package[installed_msrp], Limited Grade, Keep it Wild Savings [keep_it_wild_21], Special Color, Alloy Wheel Locks[installed_msrp], Preferred Owner's Portfolio, Third Row Seating - Leather, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions, Roof Rack Cross Bars[installed_msrp]",
-    "created_at": "2024-05-05 06:41:57"
+    "packages": "Alloy Wheel Locks[installed_msrp], Roof Rack Cross Bars[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Preferred Owner's Portfolio, 50 State Emissions, Special Color, Keep it Wild Savings [keep_it_wild_21], Quick Charge Cable Package[installed_msrp], Third Row Seating - Leather, Limited Grade",
+    "created_at": "2024-05-05 07:38:27"
   },
   {
     "dealer": "19070",
@@ -2576,8 +2436,8 @@
     "total_msrp": "45192.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], High Performance LED Fog Lights - Chrome, Door Edge Guards[installed_msrp], SR5 Premium Package w/ Softex, USB Dual Power Port[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Moonroof, Preferred Owner's Portfolio, 50 State Emissions",
-    "created_at": "2024-05-05 06:41:58"
+    "packages": "Preferred Owner's Portfolio, SR5 Premium Package w/ Softex, 50 State Emissions, Moonroof, Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Door Edge Guards[installed_msrp], USB Dual Power Port[installed_msrp], High Performance LED Fog Lights - Chrome",
+    "created_at": "2024-05-05 07:38:28"
   },
   {
     "dealer": "19071",
@@ -2596,8 +2456,8 @@
     "total_msrp": "51271.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Kinetic Dynamic Suspension System (KDSS), All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Cargo Cover[installed_msrp], Door Edge Guards[installed_msrp], Off Road Package, 50 State Emissions, Moonroof, Premium Package, High Performance LED Fog Lights[installed_msrp], Alloy Wheel Locks[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio",
-    "created_at": "2024-05-05 06:42:00"
+    "packages": "Preferred Owner's Portfolio, Premium Package, Cargo Cover[installed_msrp], 50 State Emissions, Kinetic Dynamic Suspension System (KDSS), Off Road Package, High Performance LED Fog Lights[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Alloy Wheel Locks[installed_msrp], Moonroof, Door Edge Guards[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp]",
+    "created_at": "2024-05-05 07:38:32"
   },
   {
     "dealer": "19071",
@@ -2616,8 +2476,8 @@
     "total_msrp": "54227.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "50 State Emissions, Mudguards[installed_msrp], Special Color, Cargo Cover[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Third Row Seating - Leather, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Limited Grade, Preferred Owner's Portfolio",
-    "created_at": "2024-05-05 06:42:00"
+    "packages": "Cargo Cover[installed_msrp], Third Row Seating - Leather, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio, Limited Grade, Special Color",
+    "created_at": "2024-05-05 07:38:32"
   },
   {
     "dealer": "19037",
@@ -2636,8 +2496,8 @@
     "total_msrp": "48623.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Predator Tube Step[installed_msrp], Alloy Wheel Locks[installed_msrp], Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Blackout Emblem Overlays[installed_msrp], Door Edge Guards[installed_msrp], Exhaust Tip - Black Chrome[installed_msrp], Moonroof, Off Road Package, Off Road Premium Package w/ Softex",
-    "created_at": "2024-05-05 06:42:05"
+    "packages": "Predator Tube Step[installed_msrp], Alloy Wheel Locks[installed_msrp], Off Road Package, Blackout Emblem Overlays[installed_msrp], 50 State Emissions, Door Edge Guards[installed_msrp], Moonroof, Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Exhaust Tip - Black Chrome[installed_msrp], Off Road Premium Package w/ Softex",
+    "created_at": "2024-05-05 07:38:36"
   },
   {
     "dealer": "19059",
@@ -2656,8 +2516,8 @@
     "total_msrp": "54952.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Alloy Wheel Locks[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Mudguards[installed_msrp], Running Boards - Chrome Detail[installed_msrp], Limited Grade, Special Color, Keep it Wild Savings [keep_it_wild_21], Third Row Seating - Leather, High Performance LED Fog Lights[installed_msrp], 50 State Emissions, Preferred Owner's Portfolio",
-    "created_at": "2024-05-05 06:42:06"
+    "packages": "Alloy Wheel Locks[installed_msrp], High Performance LED Fog Lights[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Limited Grade, Third Row Seating - Leather, Preferred Owner's Portfolio, Mudguards[installed_msrp], Special Color, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Running Boards - Chrome Detail[installed_msrp], 50 State Emissions",
+    "created_at": "2024-05-05 07:38:37"
   },
   {
     "dealer": "45053",
@@ -2676,8 +2536,8 @@
     "total_msrp": "52129.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Preferred Owner's Portfolio, 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Limited Grade, Keep it Wild Savings [keep_it_wild_21]",
-    "created_at": "2024-05-05 06:42:15"
+    "packages": "Preferred Owner's Portfolio, Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Limited Grade, 50 State Emissions",
+    "created_at": "2024-05-05 07:38:45"
   },
   {
     "dealer": "47025",
@@ -2696,8 +2556,8 @@
     "total_msrp": "44799.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions, Moonroof, Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio, SR5 Premium Package w/ Softex",
-    "created_at": "2024-05-05 06:42:18"
+    "packages": "50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio, Moonroof, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], SR5 Premium Package w/ Softex",
+    "created_at": "2024-05-05 07:38:47"
   },
   {
     "dealer": "47027",
@@ -2716,8 +2576,8 @@
     "total_msrp": "46178.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Door Edge Guards[installed_msrp], 50 State Emissions, High Performance LED Fog Lights - Chrome, Roof Rack Cross Bars[installed_msrp], Quick Charge Cable Package[installed_msrp], SR5 Premium Package w/ Softex, Predator Tube Step[installed_msrp], Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Blackout Emblem Overlays[installed_msrp], Preferred Owner's Portfolio, Moonroof",
-    "created_at": "2024-05-05 06:42:23"
+    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Predator Tube Step[installed_msrp], Moonroof, Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio, High Performance LED Fog Lights - Chrome, 50 State Emissions, SR5 Premium Package w/ Softex, Door Edge Guards[installed_msrp], Blackout Emblem Overlays[installed_msrp], Quick Charge Cable Package[installed_msrp], Roof Rack Cross Bars[installed_msrp]",
+    "created_at": "2024-05-05 07:38:52"
   },
   {
     "dealer": "29058",
@@ -2736,8 +2596,8 @@
     "total_msrp": "48183.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "40th Anniversary Edition, Moonroof, All Weather Floor Liners/Cargo Tray[installed_msrp], High Performance LED Fog Lights[installed_msrp], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21]",
-    "created_at": "2024-05-05 06:42:49"
+    "packages": "50 State Emissions, High Performance LED Fog Lights[installed_msrp], Keep it Wild Savings [keep_it_wild_21], 40th Anniversary Edition, Moonroof, All Weather Floor Liners/Cargo Tray[installed_msrp]",
+    "created_at": "2024-05-05 07:39:17"
   },
   {
     "dealer": "31176",
@@ -2756,8 +2616,8 @@
     "total_msrp": "53262.0",
     "availability_date": null,
     "total_packages": 15,
-    "packages": "Predator Tube Step[installed_msrp], Off Road Premium Package w/ Softex, TRD Front Skid Plate[installed_msrp], Blackout Emblem Overlays[installed_msrp], All-Weather Floor Liners[installed_msrp], TRD 17-In. Matte Black Alloy Wheel[parts_only_msrp], 50 State Emissions, USB Dual Power Port[installed_msrp], TRD Performance Exhaust[installed_msrp], High Performance LED Fog Lights - Chrome, Moonroof, Yakima Roof Cargo Basket, Keep it Wild Savings [keep_it_wild_21], Off Road Package, Roof Rack Cross Bars[installed_msrp]",
-    "created_at": "2024-05-05 06:42:53"
+    "packages": "Blackout Emblem Overlays[installed_msrp], All-Weather Floor Liners[installed_msrp], Off Road Package, TRD Performance Exhaust[installed_msrp], TRD 17-In. Matte Black Alloy Wheel[parts_only_msrp], Keep it Wild Savings [keep_it_wild_21], USB Dual Power Port[installed_msrp], Moonroof, Roof Rack Cross Bars[installed_msrp], 50 State Emissions, High Performance LED Fog Lights - Chrome, Off Road Premium Package w/ Softex, Predator Tube Step[installed_msrp], TRD Front Skid Plate[installed_msrp], Yakima Roof Cargo Basket",
+    "created_at": "2024-05-05 07:39:21"
   },
   {
     "dealer": "29092",
@@ -2776,28 +2636,8 @@
     "total_msrp": "52818.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Mudguards[installed_msrp], Preferred Owner's Portfolio, 50 State Emissions, Running Boards - Chrome Detail[installed_msrp], Alloy Wheel Locks[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Special Color, Limited Grade, Keep it Wild Savings [keep_it_wild_21]",
-    "created_at": "2024-05-05 06:42:55"
-  },
-  {
-    "dealer": "31179",
-    "vin": "JTEKU5JR3P6208660",
-    "year": "2023",
-    "vehicle": "4runner",
-    "model": "limited",
-    "engine": "4.0L V6 Engine",
-    "transmission": "5-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "Full-time 4-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Blizzard Pearl [extra_cost_color]",
-    "interior": "Sand Beige Leather-trimmed",
-    "base_msrp": "51425",
-    "total_msrp": "54763.0",
-    "availability_date": null,
-    "total_packages": 8,
-    "packages": "50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Limited Grade, Third Row Seating - Leather, Special Color, Keep it Wild Savings [keep_it_wild_21], Mudguards[installed_msrp], Running Boards - Chrome Detail[installed_msrp]",
-    "created_at": "2024-05-05 06:42:56"
+    "packages": "Special Color, Preferred Owner's Portfolio, Running Boards - Chrome Detail[installed_msrp], Limited Grade, Keep it Wild Savings [keep_it_wild_21], Alloy Wheel Locks[installed_msrp], Mudguards[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions",
+    "created_at": "2024-05-05 07:39:23"
   },
   {
     "dealer": "31172",
@@ -2816,8 +2656,8 @@
     "total_msrp": "54002.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Preferred Owner's Portfolio, Carpet Floor Mats & Carpet Cargo Mat[installed_msrp], Emergency Assistance Kit[installed_msrp], Third Row Seating - Leather, Special Color, Keep it Wild Savings [keep_it_wild_21], Quick Charge Cable Package[installed_msrp], 50 State Emissions, Limited Grade",
-    "created_at": "2024-05-05 06:42:57"
+    "packages": "Quick Charge Cable Package[installed_msrp], Preferred Owner's Portfolio, Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, Third Row Seating - Leather, Limited Grade, Special Color, Emergency Assistance Kit[installed_msrp], Carpet Floor Mats & Carpet Cargo Mat[installed_msrp]",
+    "created_at": "2024-05-05 07:39:25"
   },
   {
     "dealer": "37067",
@@ -2836,8 +2676,8 @@
     "total_msrp": "45558.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Quick Charge Cable Package[installed_msrp], 50 State Emissions, Trail Running Boards[installed_msrp], Moonroof, Preferred Owner's Portfolio, SR5 Premium Package w/ Softex, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Exhaust Tip - Chrome[installed_msrp]",
-    "created_at": "2024-05-05 06:43:01"
+    "packages": "SR5 Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio, Trail Running Boards[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions, Moonroof, Exhaust Tip - Chrome[installed_msrp], Quick Charge Cable Package[installed_msrp]",
+    "created_at": "2024-05-05 07:39:30"
   },
   {
     "dealer": "37067",
@@ -2856,8 +2696,8 @@
     "total_msrp": "54402.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Exhaust Tip - Chrome[installed_msrp], Limited Grade, Door Edge Guards[installed_msrp], Preferred Owner's Portfolio, 50 State Emissions, Third Row Seating - Leather, Roof Rack Cross Bars[installed_msrp], Mudguards[installed_msrp], Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Special Color",
-    "created_at": "2024-05-05 06:43:01"
+    "packages": "Mudguards[installed_msrp], Limited Grade, Roof Rack Cross Bars[installed_msrp], Preferred Owner's Portfolio, Exhaust Tip - Chrome[installed_msrp], Third Row Seating - Leather, Door Edge Guards[installed_msrp], Special Color, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21]",
+    "created_at": "2024-05-05 07:39:30"
   },
   {
     "dealer": "38030",
@@ -2876,8 +2716,8 @@
     "total_msrp": "56852.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Blackout Emblem Overlays[installed_msrp], 50 State Emissions, Console Safe, Dual Power Port/Quick Charge Cable Package[installed_msrp], Predator Tube Step[installed_msrp], TRD PRO Package, Door Edge Guards[installed_msrp]",
-    "created_at": "2024-05-05 06:43:13"
+    "packages": "Blackout Emblem Overlays[installed_msrp], Predator Tube Step[installed_msrp], 50 State Emissions, Door Edge Guards[installed_msrp], Dual Power Port/Quick Charge Cable Package[installed_msrp], Console Safe, TRD PRO Package",
+    "created_at": "2024-05-05 07:39:41"
   },
   {
     "dealer": "31088",
@@ -2896,8 +2736,8 @@
     "total_msrp": "52924.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Alloy Wheel Locks[installed_msrp], 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Running Boards - Chrome Detail[installed_msrp], Limited Grade",
-    "created_at": "2024-05-05 06:43:42"
+    "packages": "Limited Grade, Alloy Wheel Locks[installed_msrp], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Running Boards - Chrome Detail[installed_msrp], 50 State Emissions",
+    "created_at": "2024-05-05 07:40:09"
   },
   {
     "dealer": "31068",
@@ -2916,8 +2756,8 @@
     "total_msrp": "55026.0",
     "availability_date": null,
     "total_packages": 14,
-    "packages": "50 State Emissions, Limited Grade, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[installed_msrp], Door Edge Guards[installed_msrp], Preferred Owner's Portfolio, Special Color, Ball Mount[installed_msrp], Alloy Wheel Locks[installed_msrp], High Performance LED Fog Lights[installed_msrp], Toyota 4Runner Cooler - Cement[installed_msrp], Mudguards[installed_msrp], Third Row Seating - Leather",
-    "created_at": "2024-05-05 06:43:48"
+    "packages": "Mudguards[installed_msrp], Toyota 4Runner Cooler - Cement[installed_msrp], High Performance LED Fog Lights[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio, Roof Rack Cross Bars[installed_msrp], Ball Mount[installed_msrp], Third Row Seating - Leather, 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Limited Grade, Door Edge Guards[installed_msrp], Alloy Wheel Locks[installed_msrp], Special Color",
+    "created_at": "2024-05-05 07:40:13"
   },
   {
     "dealer": "31160",
@@ -2936,8 +2776,8 @@
     "total_msrp": "54902.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Limited Grade, Mudguards[installed_msrp], Third Row Seating - Leather, All-Weather Floor Liners[installed_msrp], Paint Protection Film - Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[installed_msrp], Running Boards - Chrome Detail[installed_msrp], Alloy Wheel Locks[installed_msrp]",
-    "created_at": "2024-05-05 06:43:48"
+    "packages": "Roof Rack Cross Bars[installed_msrp], Mudguards[installed_msrp], Alloy Wheel Locks[installed_msrp], All-Weather Floor Liners[installed_msrp], Running Boards - Chrome Detail[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Limited Grade, 50 State Emissions, Paint Protection Film - Hood, Fenders, Mirror Backs and Door Cups[installed_msrp], Third Row Seating - Leather",
+    "created_at": "2024-05-05 07:40:13"
   },
   {
     "dealer": "34070",
@@ -2956,8 +2796,8 @@
     "total_msrp": "48058.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Off Road Premium Package w/ Softex, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Blackout Emblem Overlays[installed_msrp], Moonroof, Console Safe, 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Off Road Package",
-    "created_at": "2024-05-05 06:44:05"
+    "packages": "Moonroof, Blackout Emblem Overlays[installed_msrp], Console Safe, Off Road Premium Package w/ Softex, Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Off Road Package, 50 State Emissions",
+    "created_at": "2024-05-05 07:40:28"
   },
   {
     "dealer": "34129",
@@ -2976,8 +2816,8 @@
     "total_msrp": "46484.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Preferred Owner's Portfolio, 50 State Emissions, Moonroof, Keep it Wild Savings [keep_it_wild_21], Third Row Seating - Softex, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Premium Package",
-    "created_at": "2024-05-05 06:44:07"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Third Row Seating - Softex, Moonroof, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Premium Package, 50 State Emissions, Preferred Owner's Portfolio",
+    "created_at": "2024-05-05 07:40:30"
   },
   {
     "dealer": "34128",
@@ -2996,8 +2836,8 @@
     "total_msrp": "45884.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Preferred Owner's Portfolio, SR5 Premium Package w/ Softex, 50 State Emissions, Keep it Wild Savings [keep_it_wild_21], Moonroof, Third Row Seating - Softex",
-    "created_at": "2024-05-05 06:44:12"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], 50 State Emissions, SR5 Premium Package w/ Softex, Preferred Owner's Portfolio, Moonroof, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Third Row Seating - Softex",
+    "created_at": "2024-05-05 07:40:35"
   },
   {
     "dealer": "34124",
@@ -3016,8 +2856,8 @@
     "total_msrp": "45884.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions, Moonroof, SR5 Premium Package w/ Softex, Third Row Seating - Softex",
-    "created_at": "2024-05-05 06:44:16"
+    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21], Preferred Owner's Portfolio, SR5 Premium Package w/ Softex, Moonroof, 50 State Emissions, Third Row Seating - Softex",
+    "created_at": "2024-05-05 07:40:38"
   },
   {
     "dealer": "34124",
@@ -3036,8 +2876,8 @@
     "total_msrp": "55110.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, Automatic Running Boards, Third Row Seating - Leather, Keep it Wild Savings [keep_it_wild_21], Limited Grade, Special Color",
-    "created_at": "2024-05-05 06:44:16"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], Third Row Seating - Leather, Automatic Running Boards, 50 State Emissions, Limited Grade, Special Color",
+    "created_at": "2024-05-05 07:40:38"
   },
   {
     "dealer": "37191",
@@ -3056,8 +2896,8 @@
     "total_msrp": "45054.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], SR5 Premium Package w/ Softex, Quick Charge Cable Package[installed_msrp], 50 State Emissions, Moonroof, Keep it Wild Savings [keep_it_wild_21], Roof Rack Cross Bars[installed_msrp], Preferred Owner's Portfolio",
-    "created_at": "2024-05-05 06:44:28"
+    "packages": "Preferred Owner's Portfolio, Roof Rack Cross Bars[installed_msrp], Quick Charge Cable Package[installed_msrp], 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21], SR5 Premium Package w/ Softex, Moonroof",
+    "created_at": "2024-05-05 07:40:47"
   },
   {
     "dealer": "48036",
@@ -3076,7 +2916,7 @@
     "total_msrp": "41359.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package[installed_msrp], Keep it Wild Savings [keep_it_wild_21], 50 State Emissions",
-    "created_at": "2024-05-05 06:44:58"
+    "packages": "Keep it Wild Savings [keep_it_wild_21], All-Weather Floor Liners & Cargo Tray Package[installed_msrp], 50 State Emissions",
+    "created_at": "2024-05-05 07:41:13"
   }
 ]
